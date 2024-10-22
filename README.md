@@ -1,7 +1,8 @@
 # Fan_Controller
-Project using a NUCLEO board to control the speed of a cpu fan using PID control.
+Project using a NUCLEO board to control the speed of a cpu fan using PID control.  
+[![My Skills](https://skillicons.dev/icons?i=arduino,cpp)](https://skillicons.dev)
 
-CPU Fan Controller
+**CPU Fan Controller**
 
 The program is used to control the speed of a 3-pin 12V CPU fan with the use of a Nucleo board and extension board.
 The speed of the fan is changed by rotating the rotary encoder.
